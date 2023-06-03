@@ -1,7 +1,0 @@
-cd
-pwd 
-ll
-git branch 
-git push 
-git add
-git pull
